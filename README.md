@@ -11,7 +11,7 @@ Organization of Use Cases
 ---
 The use cases themselves are meant to be very specific, in order to clearly communicate a particular scenarios and the expectations the Allele Registry service would provide.  These Use cases will evolve over time and ultimately be finalized based on a community driven process yet to be defined (TBD).  
 Use Cases will be provided an identifier and catagorized or tagged by various aspects or areas of interest (yet to be developed).  
-The catalog or index of use cases can be found [here](link to catalog page)
+The catalog or index of use cases can be found [here](./docs/use-cases/index.md)
 
 How to contribute?
 ---
