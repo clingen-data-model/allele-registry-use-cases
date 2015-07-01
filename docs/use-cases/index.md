@@ -5,9 +5,9 @@ Variant Curation Cases
 
 ID | Name 
 ---|-------
-UC01 | Submit a completely novel simple allele
+[UC01](../UC01) | Submit a completely novel simple allele
+UC02 | Submit an already known simple allele
 
-2. Submit an already known simple allele
 3. Submit a new simple allele for a known canonical allele
 4. Submit an amino acid simple allele
 5. Query for the associated canonical alleles (given a nucleotide allele, what is the aa version, and vice versa)
