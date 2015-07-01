@@ -4,9 +4,9 @@
 Curator submits a completely novel simple allele to the Allele Registry.
 
 ####Actors
--*Curation Admin* - a user that has the authority to register new alleles in the *Allele Registry*
-- *Curation Application* - a system that stores curation evidence related to allele identifiers from the *Allele Registry*.
-- *Allele Registry* - a service that is the single authority for canonical allele identifiers and the canonicalization engine implementation for registering, mapping, aligning and canonicalizing various allele representations.
+- *Curation Admin* is a user that has the authority to register new alleles in the *Allele Registry*
+- *Curation Application* is a system that stores curation evidence related to allele identifiers from the *Allele Registry*.
+- *Allele Registry* is the service provided by public authority for canonical allele identifiers and the canonicalization engine implementation for registering, mapping, aligning and canonicalizing various allele representations.
 
 ####Pre-conditions
 - One of either of the following minimal data sets for an allele representation are provided for registring an allele
