@@ -1,9 +1,7 @@
-###ID: 01
-###Title: Submit a completely novel simple allele
+###Submit a completely novel simple allele (*UC01*)
 
-###Description
+**Description**
 Curator submits a completely novel simple allele to the Allele Registry.
-
 
 ####Actors
 - Curation Admin - a user that has the authority to register new alleles in the Allele Registry
@@ -12,8 +10,8 @@ Curator submits a completely novel simple allele to the Allele Registry.
 
 ####Pre-conditions
 - One of either of the following minimal data sets for an allele representation are provided for registring an allele
--- Reference seqeunce identifier and associated HGVS expression. (e.g. NM_007294.3:c.5297T>G or U14680.1:n.5416T>G)
--- Genome build assembly, chromosome, genomic coordinates, reference and alternate allele. (e.g. GRCh37, 17, 41203114, 41203115, A, C)
+  - Reference seqeunce identifier and associated HGVS expression. (e.g. NM_007294.3:c.5297T>G or U14680.1:n.5416T>G)
+  - Genome build assembly, chromosome, genomic coordinates, reference and alternate allele. (e.g. GRCh37, 17, 41203114, 41203115, A, C)
 
 - The allele representation to be registered does not previously exist in the Allele Registry, nor does the canonical representation of the allele representation.
 
@@ -23,7 +21,6 @@ Curator submits a completely novel simple allele to the Allele Registry.
 3. The Allele Registry determines that the allele representation specified does not already exist and registers it. 
 4. The Allele Registry returns the URI of the canonical allele (or universal identifier) to the Curation Application.
 5. The Curation Application captures the universal stable allele identifier and presents all relevant forms of the allele to the Curation admin.
-
 
 ####Post-conditions
 - The Curation Application captures a universal stable identifier authorized by the Allele Registry for the original allele representation submitted by the Curation Admin.  
