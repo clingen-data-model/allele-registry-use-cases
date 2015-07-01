@@ -1,7 +1,7 @@
-ID: 01
-Title: Submit a completely novel simple allele
+###ID: 01
+###Title: Submit a completely novel simple allele
 
-Description
+###Description
 Curator submits a completely novel simple allele to the Allele Registry.
 
 
