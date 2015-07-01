@@ -5,7 +5,7 @@ Variant Curation Cases
 
 ID    | Name 
 ------|-------
-[UC101](../UC101.html) | Submit a completely novel simple allele 
+[UC101](./UC101.html) | Submit a completely novel simple allele 
 UC102 | Submit an already known simple allele
 UC103 | Submit a new simple allele for a known canonical allele
 UC104 | Submit an amino acid simple allele
