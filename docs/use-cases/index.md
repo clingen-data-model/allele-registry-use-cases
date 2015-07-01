@@ -4,7 +4,7 @@
 
 ID    | Name | Status
 ------|------| ---
-[UC101](./UC101.html) | Submit a completely novel simple allele | drafted
+[UC101](./UC101.html) | Submit a completely novel simple allele | needs review
 UC102 | Submit an already known simple allele | todo
 UC103 | Submit a new simple allele for a known canonical allele | todo
 UC104 | Submit an amino acid simple allele | todo
