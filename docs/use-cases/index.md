@@ -1,7 +1,6 @@
 # Use Case Catalog
 
-Variant Curation Cases
----
+##Variant Curation Cases
 
 ID    | Name 
 ------|-------
