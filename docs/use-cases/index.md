@@ -3,7 +3,10 @@
 Variant Curation Cases
 ---
 
-1. Submit a completely novel simple allele
+ID | Name 
+---|-------
+UC01 | Submit a completely novel simple allele
+
 2. Submit an already known simple allele
 3. Submit a new simple allele for a known canonical allele
 4. Submit an amino acid simple allele
