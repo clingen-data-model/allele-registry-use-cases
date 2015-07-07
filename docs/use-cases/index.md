@@ -21,6 +21,6 @@ UC112 | Submit a haplotype with novel simple alleles whose combination already h
 [UC113](./UC113.md) | Submit a simple allele on an unknown reference | needs review
 [UC114](./UC114.md) | Submit a simple allele that does not match the given reference | need review
 UC115 | A new version of a reference sequence is added to the system | todo
-[UC116](./UC116.md) | A change to a reference allele causes the invalidation of a canonical allele | needs review
+[UC116](./UC116.md)| A change to a reference allele causes the invalidation of a canonical allele | needs review
 UC117 | Two canonical alleles are found to represent the same entity | todo
 UC118 | The canonicalizer is updated, moving to a new version.  | todo
