@@ -7,7 +7,7 @@
 * GA4GH Variant
 
 ## Protein allele
-* HGVS Expression (including HGNC gene identifier)
+* HGVS Expression (including protein transcript identifier)
 * ClinGen Allele
 * GA4GH Variant
 
