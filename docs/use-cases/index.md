@@ -8,9 +8,9 @@ ID    | Name | Status
 ------|------| ---
 [UC101](./UC101.md) | Submit a completely novel simple allele | needs review
 [UC102](./UC102.md) | Submit an already known simple allele | needs review
-UC103 | Submit a new simple allele for a known canonical allele | needs review
+[UC103](./UC103.md) | Submit a new simple allele for a known canonical allele | needs review
 [UC104](./UC104.md)| Submit an amino acid simple allele | need review
-UC105 | Query for the associated canonical alleles (given a nucleotide allele, what is the aa version, and vice versa) | todo
+[UC105](./UC105.md)| Query for the associated canonical alleles (given a nucleotide allele, what is the aa version, and vice versa) | TN Drafting
 UC106 | Query for the canonical allele of a simple allele | todo
 UC107 | Query for all the simple alleles of a canonical allele (just the known ones?) | todo
 UC108 | Query for the prov of a simple allele | todo
