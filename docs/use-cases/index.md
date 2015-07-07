@@ -1,11 +1,13 @@
 # Use Case Catalog
 
+
+
 ##Variant Curation Cases
 
 ID    | Name | Status
 ------|------| ---
 [UC101](./UC101.md) | Submit a completely novel simple allele | needs review
-UC102 | Submit an already known simple allele | todo
+UC102 | Submit an already known simple allele | TN Drafting
 UC103 | Submit a new simple allele for a known canonical allele | todo
 [UC104](./UC104.md)| Submit an amino acid simple allele | need review
 UC105 | Query for the associated canonical alleles (given a nucleotide allele, what is the aa version, and vice versa) | todo
