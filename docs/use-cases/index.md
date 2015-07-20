@@ -4,6 +4,8 @@
 
 ##Variant Curation Cases
 
+-For a greater understanding of *Actors*, *pre-conditions* and *supported_representations* please review this [section](https://github.com/clingen-data-model/allele-registry/tree/master/docs).
+
 ID    | Name | Status
 ------|------| ---
 [UC101](./UC101.md) | Submit a completely novel simple allele | needs review
@@ -22,5 +24,6 @@ UC112 | Submit a haplotype with novel simple alleles whose combination already h
 [UC114](./UC114.md) | Submit a simple allele that does not match the given reference | need review
 UC115 | A new version of a reference sequence is added to the system | todo
 [UC116](./UC116.md)| A change to a reference allele causes the invalidation of a canonical allele | needs review
-UC117 | Two canonical alleles are found to represent the same entity | todo
+[UC117](./UC117.md) | Two canonical alleles are found to represent the same entity | needs review
 UC118 | The canonicalizer is updated, moving to a new version.  | todo
+

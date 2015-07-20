@@ -15,4 +15,4 @@ The catalog or index of use cases can be found [here](./docs/use-cases/index.md)
 
 How to contribute?
 ---
-Any one may propose a new use case, as well as, suggest changes to existing use cases. All submissions will be managed by the members of this project, but it is the expectation that the original author(s) will remain engaged in the development process and sign off on the end result. (TBD) there may be the need to represent original authorship approval in the documentation.
+Any one may [propose a new use case](https://github.com/clingen-data-model/allele-registry/issues), as well as, suggest changes to existing use cases. All submissions will be managed by the members of this project, but it is the expectation that the original author(s) will remain engaged in the development process and sign off on the end result. (TBD) there may be the need to represent original authorship approval in the documentation.
