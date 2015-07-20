@@ -4,7 +4,7 @@
 
 ##Variant Curation Cases
 
-###For a greater understanding of *Actors*, *pre-conditions* and *supported_representations* please review this [section](https://github.com/clingen-data-model/allele-registry/tree/master/docs).
+*For a greater understanding of *Actors*, *pre-conditions* and *supported_representations* please review this [section](https://github.com/clingen-data-model/allele-registry/tree/master/docs).
 
 ID    | Name | Status
 ------|------| ---
