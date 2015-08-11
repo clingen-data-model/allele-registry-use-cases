@@ -8,7 +8,7 @@
 
 ID    | Name | Status
 ------|------| ---
-[UC101](./UC101.md) | Submit a completely novel simple allele | needs review
+[UC101](./UC101.md) | Submit a completely novel nucleotide simple allele | needs review
 [UC102](./UC102.md) | Submit an already known simple allele | needs review
 [UC103](./UC103.md) | Submit a new simple allele for a known canonical allele | needs review
 [UC104](./UC104.md)| Submit an amino acid simple allele | need review
