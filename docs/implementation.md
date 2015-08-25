@@ -1,10 +1,10 @@
-##Implementor Topics for AR
+##Implementer Topics
 
-###Generating Allele Instances for all Nucleotide & Amino Acid Sequences Available
+###Generating & Storing "All v. Submission Only" Allele Instance(s)
 
-TODO C. Bizon
+TODO
 
 
-###Approaches to determining existence of a submitted change in a repeating sequence (aka. Left-Right issue)
+###Approach(es) to Handling Left-Right Issue at Submission
 
 TODO L. Babb
